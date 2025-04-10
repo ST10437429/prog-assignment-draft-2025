@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"letschat","l":"AccountCreate"},{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"letschat","l":"LetsChat"},{"p":"letschat","l":"LoginLogic"}];updateSearchResults();
